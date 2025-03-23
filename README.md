@@ -14,3 +14,5 @@ Estudiante 2:
   Cédula: 1010082612
   
   Programa académico: Bioingeniería
+
+https://www.kaggle.com/competitions/udea-ai4eng-20242
