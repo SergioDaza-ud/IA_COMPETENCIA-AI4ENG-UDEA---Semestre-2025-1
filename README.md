@@ -16,3 +16,5 @@ Estudiante 2:
   Programa académico: Bioingeniería
 
 https://www.kaggle.com/competitions/udea-ai4eng-20242
+
+Video_Entrega2 = https://www.youtube.com/watch?v=8YgVpr-j5Lg
